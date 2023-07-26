@@ -10,4 +10,7 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
+  rules: {
+    'require-jsdoc': 'off',
+  },
 };
