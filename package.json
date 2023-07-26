@@ -1,0 +1,13 @@
+{
+  "name": "@anopszetex/knex-lab",
+  "version": "1.0.0",
+  "description": "A simple project to simulate batch updates with random data and monitor the bottleneck. However, the most important thing is to check the flow and how it is working.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

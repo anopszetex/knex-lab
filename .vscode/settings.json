@@ -1,0 +1,29 @@
+{
+  "javascript.validate.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.packageManager": "yarn",
+  "eslint.validate": ["javascript", "typescript"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "peacock.color": "#7830f3",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#9760f6",
+    "activityBar.background": "#9760f6",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f8b086",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#9760f6",
+    "statusBar.background": "#7830f3",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#9760f6",
+    "statusBarItem.remoteBackground": "#7830f3",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#7830f3",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#7830f399",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}
