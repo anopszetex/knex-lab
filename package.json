@@ -18,5 +18,8 @@
     "eslint-plugin-n": "^16.0.1",
     "eslint-plugin-promise": "^6.1.1",
     "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "knex": "^2.5.1"
   }
 }
